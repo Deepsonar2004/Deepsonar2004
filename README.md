@@ -1,18 +1,96 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deep.sonar100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeepSonar ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Deepsonar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@deepsonar111) 
+<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepsonar2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepsonar2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsonar2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepsonar2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shourya+Saxena!;Mern+Stack+Developer+💻;" />
+</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=Deepsonar2004&icon=0&color=10)](https://visitcount.itsvg.in)
+<h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
+<h2 align="center">👋 I'm Deep, a passionate MERN stack developer, UI/UX Devloper  and coding enthusiast from India🌍!</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+
+<img align="right" width="250" alt="Coding" src="https://github.com/Deepsonar2004" />
+
+<p align="left"> 
+🌟 Passionate UI/UX Devloper 🚀
+</p>
+<p align="left"> 
+🎨 Creative Tech Enthusiast 💡
+</p>
+<p align="left"> 
+🔧 Problem-Solving Extraordinaire 💪
+</p>
+<p align="left"> 
+🌟 Innovation Architect 🛠️
+</p>
+<p align="left"> 
+🎮 Coding Maverick 🕹️
+</p>
+
+📫 Contact Me At **sonardeep2002@gmail.com**
+
+<h5>
+  🔗 Know more About me on <a href="www.linkedin.com/in/deepsonar" target="_blank">LinkedIn</a>
+</h5>
+
+<hr/>
+ 
+<h2 align="center">📚 My Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+<h2 align="center">🎨 Frontend 🎨</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
+</div>
+
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,django,nginx,redis,kafka,prisma" />
+</div>
+
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,adobeaftereffects,docker,kubernetes,aws,firebase,appwrite,postman" />
+</div>
+<br/>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaxenaShourya/SaxenaShourya/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaxenaShourya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SaxenaShourya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaxenaShourya&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+Us!+💖;Let's+Connect!+🚀;" />
+</h1>
+
+
+
