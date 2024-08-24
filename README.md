@@ -1,10 +1,10 @@
 
-<img alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/e5a6d997-deaf-4f4f-88c2-18e9c90a688c" />
+<img alt="Coding" src="https://github.com/Deepsonar2004" />
 
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shourya+Saxena!;Mern+Stack+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deep+Sonar!;Mern+Stack+Developer+UI/UX Designer💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
