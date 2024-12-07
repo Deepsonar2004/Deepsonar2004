@@ -14,7 +14,7 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<img align="right" width="250" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5622AQFyo2zuJ3OPXA/feedshare-shrink_800/feedshare-shrink_800/0/1732689802515?e=2147483647&v=beta&t=sEUE5ZXZllFJ3IywvwVlpxDwu6shq-sdmbvF87sfwKg" />
+<img align="right" width="250" alt="Coding" src="https://media1.tenor.com/m/a4-limnRR-YAAAAd/just-a-chill-guy-chill.gif" />
 
 <p align="left"> 
 🌟 Passionate UI/UX Devloper 🚀
