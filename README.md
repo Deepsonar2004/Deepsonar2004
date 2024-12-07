@@ -1,5 +1,5 @@
 
-<img alt="Coding" src="[https://github.com/Deepsonar2004](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.barstoolsports.com%2Fblog%2F3531876%2Fthe-chill-guy-meme-a-universal-connection&psig=AOvVaw06w6nSVCmK8daxtGFoA_vK&ust=1733644410334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjolOuWlYoDFQAAAAAdAAAAABAE)" />
+<img alt="Coding" src="https://chumley.barstoolsports.com/union/2024/11/20/dc884-17262004042678.06fe99d7.webp?fit=bounds&format=pjpg&auto=webp&quality=85%2C75" />
 
 <hr/>
 
@@ -14,7 +14,7 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<img align="right" width="250" alt="Coding" src="https://github.com/Deepsonar2004" />
+<img align="right" width="250" alt="Coding" src="https://media.licdn.com/dms/image/v2/D5622AQFyo2zuJ3OPXA/feedshare-shrink_800/feedshare-shrink_800/0/1732689802515?e=2147483647&v=beta&t=sEUE5ZXZllFJ3IywvwVlpxDwu6shq-sdmbvF87sfwKg" />
 
 <p align="left"> 
 🌟 Passionate UI/UX Devloper 🚀
