@@ -4,7 +4,7 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deep+Sonar!;Mern+Stack+Developer+UI/UX Designer💻;" />
+    <img src="https://i.gifer.com/origin/ab/ab1af2e20214c839b2bf3281daa03eaa_w200.gif" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
